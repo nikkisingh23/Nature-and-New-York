@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,Orange and Blue Sunset,image/jpg,backyard.jpg,2021,"orange; blue; nature; sunset, sky",canada ,43.18615,-79.2403, a sunset in brampton in the summer
+item2,Street's of New York,image/jpg,nyc.jpg,2021,busy; street; black and white; new york city,new york city,43.1525,-79.23373,a street view of a busy street in new york city
+item3,Pink and Purple Sunset,image/jpg,backyard2.jpg,2021,pink; purple; sky; sunset; nature,canada ,,,a sunset in brampton in the fall
+item4,Clouds,image/jpg,clouds.jpg,2021,plane; sky; clouds; flight; fluffy,the sky,,,a picture of the clouds from a plane 
+item5,New York City,image/jpg,nyc2.jpg,2021,city; buildings; sky view; black and white; chaos,new york city ,,,a picture of a city scape from the empire state building
